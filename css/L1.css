@@ -1,0 +1,54 @@
+body{
+  font-family: "Gill Sans Extrabold", Helvetica, sans-serlf;
+  font-size: 14px;
+  background-color: #884411;
+}
+.hurlicane-regular{
+
+}
+p{
+  font-size: 13px;
+  color: #bbbbbb;
+  font-weight: bold;
+
+}
+
+p.parrafito-hurt{
+  font-size: 28px;
+  color: #ffeedd;
+  font-family: "Hurricane", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+p.parrafo-justi{
+
+
+}
+table.tablita-sencilla{
+
+}
+P.especial {
+color : green;
+border: solid red;
+}
+
+table.tablita-avanzado{
+
+}
+form.formulario{
+
+}
+input.entradas{
+
+}
+label.etiquetas{
+
+}
+nav.navegacion{
+
+}
+
+<img
+  src="images/dinosaur.jpg"
+  alt="La cabeza y el torso de un esqueleto de dinosaurio;
+           tiene una cabeza grande con dientes largos y afilados" />
